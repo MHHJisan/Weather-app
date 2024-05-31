@@ -6,12 +6,25 @@
 .weather input {
   padding: 10px;
   margin-right: 10px;
+  text-align: center;
+  color: brown;
+  font-size: large;
+  font-weight: 500;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .weather button {
   padding: 10px;
+  text-align: center;
+  font-size: large;
+  font-weight: 500;
+  background-color: greenyellow ;
 }
 
 .weather div {
   margin-top: 20px;
+}
+
+.weather2 h2, p{
+  text-align: center;
 }
