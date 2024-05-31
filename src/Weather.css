@@ -1,0 +1,17 @@
+.weather {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.weather input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.weather button {
+  padding: 10px;
+}
+
+.weather div {
+  margin-top: 20px;
+}
